@@ -55,6 +55,9 @@
 **16. Get started Building WEb3 Apps with Cloudflare**
 [Click here to check out there blog for more](blog.cloudflare.com/get-started-web3)
 
+**17 Get started your web 3 journey with some cool projects**
+[click here to checkout](https://learnweb3.io/)
+
 
 
 
